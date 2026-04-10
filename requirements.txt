@@ -1,0 +1,9 @@
+mcp
+youtube-transcript-api
+ollama
+langchain
+chromadb
+sentence-transformers
+streamlit
+langchain-mcp-adapters
+langchain-groq
